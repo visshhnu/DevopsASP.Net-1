@@ -1,2 +1,2 @@
-# AspNetCore-PR
-Sample project for demoing PR validation in Azure DevOps
+# AspNetCore Devops
+Sample project for demoing validation in Azure DevOps
